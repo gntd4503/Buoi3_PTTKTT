@@ -1,0 +1,7 @@
+D:\PTTKTT\Buoi3_PTTKTT\Buoi3_Bai3_DeQuy\Buoi3_Bai3_DeQuy\bin\Debug\Buoi3_Bai3_DeQuy.exe.config
+D:\PTTKTT\Buoi3_PTTKTT\Buoi3_Bai3_DeQuy\Buoi3_Bai3_DeQuy\bin\Debug\Buoi3_Bai3_DeQuy.exe
+D:\PTTKTT\Buoi3_PTTKTT\Buoi3_Bai3_DeQuy\Buoi3_Bai3_DeQuy\bin\Debug\Buoi3_Bai3_DeQuy.pdb
+D:\PTTKTT\Buoi3_PTTKTT\Buoi3_Bai3_DeQuy\Buoi3_Bai3_DeQuy\obj\Debug\Buoi3_Bai3_DeQuy.csproj.AssemblyReference.cache
+D:\PTTKTT\Buoi3_PTTKTT\Buoi3_Bai3_DeQuy\Buoi3_Bai3_DeQuy\obj\Debug\Buoi3_Bai3_DeQuy.csproj.CoreCompileInputs.cache
+D:\PTTKTT\Buoi3_PTTKTT\Buoi3_Bai3_DeQuy\Buoi3_Bai3_DeQuy\obj\Debug\Buoi3_Bai3_DeQuy.exe
+D:\PTTKTT\Buoi3_PTTKTT\Buoi3_Bai3_DeQuy\Buoi3_Bai3_DeQuy\obj\Debug\Buoi3_Bai3_DeQuy.pdb

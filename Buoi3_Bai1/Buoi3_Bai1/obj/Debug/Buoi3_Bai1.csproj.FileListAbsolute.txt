@@ -1,0 +1,7 @@
+D:\PTTKTT\Buoi3_Bai1\Buoi3_Bai1\bin\Debug\Buoi3_Bai1.exe.config
+D:\PTTKTT\Buoi3_Bai1\Buoi3_Bai1\bin\Debug\Buoi3_Bai1.exe
+D:\PTTKTT\Buoi3_Bai1\Buoi3_Bai1\bin\Debug\Buoi3_Bai1.pdb
+D:\PTTKTT\Buoi3_Bai1\Buoi3_Bai1\obj\Debug\Buoi3_Bai1.csproj.AssemblyReference.cache
+D:\PTTKTT\Buoi3_Bai1\Buoi3_Bai1\obj\Debug\Buoi3_Bai1.csproj.CoreCompileInputs.cache
+D:\PTTKTT\Buoi3_Bai1\Buoi3_Bai1\obj\Debug\Buoi3_Bai1.exe
+D:\PTTKTT\Buoi3_Bai1\Buoi3_Bai1\obj\Debug\Buoi3_Bai1.pdb
